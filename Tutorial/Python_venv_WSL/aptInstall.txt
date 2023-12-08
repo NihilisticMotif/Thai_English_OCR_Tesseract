@@ -1,0 +1,20 @@
+How to install Python?
+* $ sudo apt install python3
+
+How to install Python Virtual Environment?
+* $ sudo apt-get install -y python3-venv
+
+How to install Pip?
+* $ sudo apt install python3-pip
+
+How to install Npm?
+* $ sudo apt install npm
+
+How to install Typescript?
+* $ npm install -g typescript
+
+How to install React?
+* https://learnubuntu.com/install-reactjs/
+* $ sudo npm -g install create-react-app
+
+Note: If there is no reference, the reference is by asking Chat GPT

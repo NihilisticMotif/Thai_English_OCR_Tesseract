@@ -1,0 +1,23 @@
+How to create Python Virtual Environment?
+* $ python3 -m venv venv_name # or venv
+
+How to activate python virtual environment in Ubuntu?
+* $ source venv/bin/activate
+
+How to deactivate python virtual environment in Ubuntu?
+* $ deactivate
+
+How to see all installed package?
+* $ pip list
+
+How to install package in Python Virtual Environemnt?
+* $ pip install numpy # or other packages
+
+How to install packages from requirements.txt?
+* https://stackoverflow.com/questions/7225900/how-can-i-install-packages-using-pip-according-to-the-requirements-txt-file-from
+* $ pip install -r /path/to/requirements.txt
+
+How to create requirements.txt?
+* https://youtu.be/BXPzbH0LYz4?si=QUFPlbnSz44p7SCD
+* https://stackoverflow.com/questions/31684375/automatically-create-file-requirements-txt
+* $ pip3 freeze > requirements.txt

@@ -1,0 +1,23 @@
+pip list
+Package         Version
+--------------- --------
+Cython          3.0.0
+01. numpy           1.25.2
+02. opencv-python   4.8.0.74
+03. packaging       23.1
+04. pandas          2.0.3
+05. Pillow          10.0.0
+06. pip             22.0.4
+07. pytesseract     0.3.10
+08. python-dateutil 2.8.2
+09. pytz            2023.3
+10. setuptools      58.1.0
+11. six             1.16.0
+12. tesseract       0.1.3
+13. tzdata          2023.3
+
+## How to install other language?
+# brew install tesseract-lang
+## How to check installed language list?
+# tesseract --list-langs
+## https://stackoverflow.com/questions/52891563/how-to-install-language-in-tesseract-ocr
