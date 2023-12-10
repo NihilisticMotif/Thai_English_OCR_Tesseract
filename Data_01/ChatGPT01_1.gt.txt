@@ -1,0 +1,1 @@
+Write many valid Thai and English language sentenses as much as you can, because I want to train Tesseract OCR on this 2 languages.

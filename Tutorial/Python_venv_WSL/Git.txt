@@ -1,0 +1,10 @@
+
+How to commit?
+* https://stackoverflow.com/questions/4298960/git-add-and-commit-in-one-command
+* $ git add -A
+* $ git commit -m "commit message"
+
+How to solve LF will be replaced by CRLF error?
+* https://youtu.be/1hi0KVuhOIg?si=kCFke4fhNeASkMS9
+* $ git config --global core.autocrlf false 
+* $ 

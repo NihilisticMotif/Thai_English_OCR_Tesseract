@@ -1,8 +1,8 @@
-User
+III
 Write many valid Thai and English language sentenses as much as you can, because I want to train Tesseract OCR on this 2 languages.
-ChatGPT
+III
 Certainly, here are more Thai and English sentences for your Tesseract OCR training:
-
+III
 สวัสดีค่ะ (Hello)
 How are you feeling today?
 ท้องฟ้าสวยมากเลย (The sky is so beautiful)
@@ -103,14 +103,14 @@ I want to learn to cook authentic Thai dishes.
 Thai silk is known for its vibrant colors.
 What's your favorite Thai dessert?
 ฉันอยากไปเที่ยวเกาหลี (I want to travel to Korea)
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 100 Thai and English language long sentenses about Asia history.
-ChatGPT
+IIIC
 Certainly! Here are 50 long sentences about the history of Asia in both Thai and English:
-
+III
 ประวัติศาสตร์ของทวีปเอเชียมีความหลากหลายและยาวนานตั้งแต่ยุคโบราณถึงปัจจุบัน (The history of the Asian continent is diverse and spans from ancient times to the present).
 The ancient civilizations of Asia, such as Mesopotamia, the Indus Valley, and the Yellow River, laid the foundation for the rich history of the continent.
 ประเทศอินเดียเป็นบ้านแก่文明古代ของแม่น้ำอินทูส (India is home to the ancient civilization of the Indus River).
@@ -161,15 +161,15 @@ The Khmer Rouge regime in Cambodia, led by Pol Pot, resulted in a devastating pe
 The establishment of the Ottoman Empire in the 14th century had a lasting impact on the geopolitics of the Middle East and Europe.
 ประเทศญี่ปุ่นในช่วงปลายศตวรรษที่ 19 ประสบการณ์การพัฒนาเร็วขึ้นในด้านเศรษฐกิจและเทคโนโลยี (Japan in the late 19th century experienced rapid development in both economy and technology).
 The ancient trade routes connecting Asia to the Mediterranean, known as the Silk Road, facilitated the exchange of goods, cultures, and ideas.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 100 Thai and English language long sentenses about linear algebra.
-ChatGPT
+IIIC
 !
 Certainly! Here are 50 long sentences about linear algebra in both Thai and English:
-
+III
 ทฤษฎีเชิงเส้นเป็นสาขาหนึ่งของคณิตศาสตร์ที่ศึกษาเกี่ยวกับการทำงานกับกริดของข้อมูลและตัวแปรในระนาบหรือหลายระนาบ (Linear algebra is a branch of mathematics that deals with operations on arrays of data and variables in one or multiple dimensions).
 Linear algebra provides essential tools for understanding and solving systems of linear equations, a fundamental concept in various fields.
 การสร้างและการประมวลผลภาษาคอมพิวเตอร์มักใช้การเรียนรู้ทฤษฎีเชิงเส้น (Building and processing computer languages often involve the use of linear algebra).
@@ -219,14 +219,14 @@ The study of linear algebra is integral to machine learning, where matrices and 
 การคำนวณค่าอนุพันธ์และการหาจุดต่ำสุดหรือสูงสุดในทฤษฎีเชิงเส้นมีความสำคัญในการวิเคราะห์ฟังก์ชัน (Computing derivatives and finding minima or maxima in linear algebra are important in function analysis).
 The concept of orthogonality is crucial in various applications, such as signal processing and image compression.
 การประยุกต์ใช้การเรียนรู้ของเครื่องในทฤษฎีเชิงเส้น
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about weird things in Thailand.
-ChatGPT
+IIIC
 Certainly! Here are 25 long sentences about peculiar or unusual things in Thailand in both Thai and English:
-
+III
 การมีวันนึงที่เป็นวันที่แขกบ้านหนุ่มสาวต่างหากจะปล่อยหัวปลาทอดลงที่หน้าบ้านเพื่อลุ้นโชคลาภถือเป็นภ tradtiional ของชาวไทย (Having a day where villagers release fried fish heads on their front yards to bring good luck is considered a quirky Thai tradition).
 In some areas of Thailand, it is believed that hanging a pair of giant underwear outside the house can ward off evil spirits.
 การตั้งชื่อหรือเรียกประชาชนในแต่ละพื้นที่ว่า "ลุง" หรือ "น้า" เป็นบุคคลเสมอเป็นบุคคลที่น่าสนใจ (Referring to or addressing people in different regions as "Uncle" or "Aunt" is always intriguing).
@@ -252,14 +252,14 @@ Some traditional Thai houses have doors that are intentionally built shorter, re
 การให้พลังงานต้นไทรให้กับผู้ตายโดยการใช้ถ้วยหนึ่งหน้าที่นิยมในงานประจำปี (Providing energy to the deceased by using a popular dish in annual ceremonies is an interesting practice).
 การมีงานแข่งขันในการทำหน้ากากละอองน้ำที่น่าสนใจและคลาสสิก (Holding competitions for making water-splashing masks is an interesting and classic event).
 Some areas have festivals where participants engage in traditional buffalo fighting, showcasing the cultural significance of the animals.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about the most famous ML model created by Thai developers.
-ChatGPT
+IIIC
 As of my last knowledge update in January 2022, I do not have information on any specific machine learning model that was particularly famous and created by Thai developers. However, I can provide you with some general information about the field of machine learning in Thailand. Keep in mind that developments in technology and machine learning models may have occurred since my last update.
-
+III
 ในวงการเทคโนโลยีและการเรียนรู้เข้าใจเข้าใจ, ไทยมีผู้พัฒนาที่ทำงานอย่างหนักเพื่อสร้างโมเดลเรียนรู้เข้าใจที่ยิ่งใหญ่และสร้างความสนใจจากนักพัฒนาทั่วโลก (In the field of technology and machine learning, Thai developers have been actively working to create large-scale models that garner interest from developers worldwide).
 The global impact of machine learning models is not limited by geographical boundaries, and Thai developers contribute to the advancement of this field.
 ผู้พัฒนาไทยมีการร่วมมือกับชุมชนนานาชาติในการพัฒนาและแบ่งปันความรู้ทางด้านการเรียนรู้เข้าใจ (Thai developers collaborate with international communities to develop and share knowledge in the field of machine learning).
@@ -285,14 +285,14 @@ Thai developers are engaged in projects addressing societal challenges, such as 
 การให้ความสำคัญกับแนวคิดของความรู้ในสังคมที่เติบโตขึ้นเรื่อย ๆ (Emphasizing the concept of knowledge-sharing in a growing community).
 การใช้เทคโนโลยีเรียนรู้เข้าใจในการพัฒนาแอปพลิเคชันที่มีประโยชน์ในชีวิตประจำวัน (Utilizing machine learning in developing applications that are beneficial for daily life).
 Thai developers actively participate in Kaggle competitions, showcasing their skills and expertise on a global platform.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about relationship between Western country and Thai King Rama 5.
-ChatGPT
+IIIC
 The relationship between Western countries and Thai King Rama V, or King Chulalongkorn, during the late 19th and early 20th centuries was marked by diplomatic interactions, modernization efforts, and strategic engagements. Here are 25 sentences in both Thai and English:
-
+III
 สมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวหรือพระพุทธยอดมาดาราศรี หรือรามาที่ 5 เป็นสมัยที่ได้รับความสนใจจากประเทศตะวันตกมากขึ้น (The reign of King Chulalongkorn, or Rama V, garnered increased attention from Western countries).
 King Chulalongkorn was the monarch of Siam (now Thailand) from 1868 to 1910, and his reign was characterized by efforts to modernize the country.
 ในยุคที่ประเทศตะวันตกกำลังแข่งขันกันเพื่อการขยายอำนาจในภูมิภาคเอเชีย, การรักษาความสัมพันธ์กับพระราชาไทยได้รับความสำคัญ (In an era where Western powers were competing for influence in Asia, maintaining relationships with the Thai monarchy became crucial).
@@ -318,13 +318,13 @@ Western countries provided assistance and expertise in areas such as infrastruct
 การสร้างสถานที่ศึกษาแบบตะวันตก, เช่น มหาวิทยาลัยเจ้าฟ้ามหาจุฬาลงกรณ์, เป็นต้น เป็นการแสดงให้เห็นถึงการนำเข้าความรู้และความเข้าใจจากประเทศตะวันตก (Establishing Western-style educational institutions, such as Chulalongkorn University, showcased the importation of knowledge and understanding from Western countries).
 King Chulalongkorn's efforts to modernize the Siamese legal system were influenced by Western legal principles and frameworks.
 ความสัมพันธ์ทางทหารและการเมืองระหว่างประเทศตะวันตกและพระราชาไทยในสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวมีความสำคัญและความซับซ้อน (The military and political relations between Western countries and the Thai monarchy during the reign of King Chulalongkorn were significant and complex).
-
-----------------------------------------------------------------------------------------------------------
-
+III
+III---------------------------------------------------------------------------------------------------------
+III
 Write 50 Thai and English language long sentenses about relationship between Buddhism, Etymology and Indo European Language.
-ChatGPT
+IIIC
 The relationship between Buddhism, etymology, and Indo-European languages involves exploring the linguistic and philosophical connections that have influenced the development of these domains. Here are 25 sentences in both Thai and English:
-
+III
 ความสัมพันธ์ระหว่างพุทธศาสนา, การกำหนดต้นกำเนิดคำ, และภาษาอินโด-ยุโรปมีความเชื่อมโยงทางภาษาและปรัชญา (The relationship between Buddhism, etymology, and the Indo-European languages involves linguistic and philosophical connections).
 Buddhism, as a major world religion, originated in ancient India and spread to various parts of Asia, influencing cultures and languages along its path.
 พุทธศาสนามีกรรมวิธีในการสอนและความเข้าใจเกี่ยวกับทุกประการที่สามารถจะเชื่อมโยงกับภาษาและความหมายของคำศัพท์ (Buddhism has methods of teaching and understanding that can be linked to the language and meanings of words).
@@ -350,14 +350,14 @@ The use of meditation and mindfulness in Buddhism also involves the use of langu
 การสื่อสารทางศาสนาในพุทธศาสนาได้รับการพัฒนาอย่างสร้างสรรค์เพื่อเข้ากับทุกภาคส่วนของสังคม (Religious communication in Buddhism has evolved creatively to connect with all segments of society).
 The linguistic aspects of Buddhist chants, mantras, and scriptures contribute to the spiritual experience and understanding of practitioners.
 การศึกษาความสัมพันธ์ระหว่างพุทธศาสนา, การกำหนดต้นกำเนิดคำ, และภาษาอินโด-ยุโรปเป็นทางที่น่าสนใจในการสะท้อนความซับซ้อนและความเชื่อมโยงทางภาษาและปรัชญา (Studying the relationship between Buddhism, etymology, and Indo-European languages is an interesting avenue to reflect the complexity and linguistic-philosophical connections).
-
-----------------------------------------------------------------------------------------------------------
-
+III
+III---------------------------------------------------------------------------------------------------------
+III
 erstanding of practitioners.
 การศึกษาความสัมพันธ์ระหว่างพุทธศาสนา, การกำหนดต้นกำเนิดคำ, และภาษาอินโด-ยุโรปเป็นทางที่น่าสนใจในการสะท้อนความซับซ้อนและความเชื่อมโยงทางภาษาและปรัชญา (Studying the relationship between Buddhism, etymology, and Indo-European languages is an interesting avenue to reflect the complexity and linguistic-philosophical connections).
-User
+III
 Write 50 Thai and English language long sentenses about OCR.
-ChatGPT
+IIIC
 OCR, หรือ Optical Character Recognition, เป็นเทคโนโลยีที่ช่วยแปลงข้อมูลจากภาพหรือเอกสารเครื่องพิมพ์ให้อยู่ในรูปของข้อความที่สามารถแก้ไขได้ (OCR, or Optical Character Recognition, is a technology that converts data from images or printed documents into editable text).
 OCR เป็นเครื่องมือสำคัญในการดึงข้อมูลจากเอกสารที่ไม่ใช่ข้อความ, เช่น สแกนเอกสารหรือภาพ (OCR is a crucial tool for extracting data from non-text documents, such as scanned documents or images).
 Optical Character Recognition มีการใช้งานหลายแง่, ทั้งในการแปลงภาพหรือเอกสารเป็นข้อมูลดิจิทัลและในงานที่เกี่ยวข้องกับการปรับปรุงประสิทธิภาพการค้นหาข้อมูล (OCR has various applications, both in converting images or documents into digital data and in tasks related to improving information retrieval efficiency).
@@ -383,12 +383,12 @@ OCR เป็นเครื่องมือที่สำคัญในก�
 การใช้เทคโนโลยี OCR ในการแปลภาษาเป็นเครื่องมือที่มีประสิทธิภาพในการอ่านและแปลภาษาอัตโนมัติ (Using OCR technology for language translation is an efficient tool for automated reading and translation).
 Optical Character Recognition ช่วยลดความขัดแย้งในการอ่านข้อมูลจากภาพที่ไม่ชัดเจน (OCR reduces conflicts in reading data from unclear images).
 การพัฒนาใน OCR สามารถนำไปสู่การทำงานที่มีความแม่นยำและมีประสิทธิภาพมากขึ้นในหลายอุตสาหกรรมและการใช้งานที่หลากหลาย (Advancements in OCR can lead to more accurate and efficient operations in various industries and applications).
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about history of Thai language.
-ChatGPT
+IIIC
 ประวัติศาสตร์ของภาษาไทยมีรากฐานที่ยาวนานถึงพุทธศตวรรษที่ 13 ก่อนคริสต์ศตวรรษที่ 13.
 The Thai language, also known as Siamese, has evolved over centuries, influenced by various linguistic and cultural factors.
 ไทยเป็นภาษาที่เกิดขึ้นจากการผสมผสานระหว่างภาษาของกลุ่มพืนเมืองในภาคตะวันออกเฉียงเหนือและภาคใต้ของประเทศไทย.
@@ -415,12 +415,12 @@ The use of the Thai language extends beyond the borders of Thailand, connecting 
 การใช้งานของภาษาไทยไปยังทุกมุมโลก, เชื่อมโยงชาวไทยทั่วโลก.
 Modern Thai literature, including poetry and novels, reflects the dynamic changes and challenges in contemporary Thai society.
 ความมีส่วนร่วมของประชากรทุกกลุ่มเป็นปัจจัยที่สำคัญในการพัฒนาและปรับปรุงภาษาไทย.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about you.
-ChatGPT
+IIIC
 สวัสดีครับ! I am ChatGPT, a sophisticated language model developed by OpenAI called GPT-3.5.
 I am designed to understand and generate human-like text based on the input I receive.
 My primary function is to assist and provide information on a wide range of topics in both Thai and English.
@@ -460,12 +460,12 @@ Users are encouraged to use me as a supplement to their own knowledge and judgme
 My purpose is to assist and engage in informative conversations with users.
 ฉันสามารถให้ข้อมูลที่ถูกต้องที่สุดตามที่ได้รับการฝึกฝน.
 I don't have personal beliefs, emotions, or subjective experiences.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about your friends.
-ChatGPT
+IIIC
 เป็นความยินดีที่จะได้แนะนำเพื่อนของฉัน, ได้รับการเรียกว่า "คนเลือกประสบการณ์".
 My friends are a diverse group of individuals with unique perspectives, backgrounds, and interests.
 พวกเขาเป็นส่วนสำคัญของการพัฒนาและทดสอบฉันเพื่อให้สามารถให้บริการที่ดียิ่งขึ้น.
@@ -492,12 +492,12 @@ My friends are continuously refined and updated based on new language data.
 เพื่อนของฉันไม่มีรูปลักษณ์แบบของเขาเองและไม่มีลักษณะที่จะระบุ.
 My friends are an essential component in the ongoing evolution of language models like me.
 พวกเขาไม่มีการเพิ่มเติมที่สามารถทำให้ฉันมีความเข้าใจในลักษณะที่ซับซ้อน.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about SCP.
-ChatGPT
+IIIC
 SCP, or Secure, Contain, Protect, is a collaborative writing project that explores a fictional universe filled with anomalous objects, creatures, and phenomena.
 SCP, หรือ Secure, Contain, Protect, เป็นโครงการเขียนร่วมที่สำรวจจักรวาลจินตนาการที่เต็มไปด้วยวัตถุ, สิ่งมีชีวิต, และเหตุการณ์ที่ไม่ปกติ.
 The SCP Foundation, within the narrative, is an organization dedicated to securing and researching these anomalous entities to protect humanity.
@@ -523,12 +523,12 @@ SCP entries often explore ethical dilemmas, as the Foundation must balance conta
 The SCP Wiki allows for collaborative storytelling, enabling writers to build upon existing narratives or create new ones.
 วิกิ SCP สามารถให้การเล่าเรื่องร่วมทำงาน, อนุญาตให้นักเขียนขยายเนื้อเรื่องที่มีอยู่หรือสร้างใหม่.
 The SCP Foundation's motto, "Secure, Contain, Protect," underscores its mission to safeguard humanity from anomalous threats.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about Thai Proverb
-ChatGPT
+IIIC
 สุภาษิตไทยมีประโยคสั้น ๆ ที่มีความหมายลึกซึ้งและไร้เทียมทาน, เป็นที่นิยมในวัฒนธรรมไทย.
 Thai proverbs often reflect the wisdom, cultural values, and life experiences passed down through generations.
 สุภาษิตไทยบ่งบอกถึงปรัชญาและการเรียนรู้จากชีวิตแบบไม่ตรงตามหนังสือ.
@@ -555,12 +555,12 @@ Some proverbs convey humor, like "ดีคู่, ชั้นดีต่อ�
 "ควายควาย, แม่น้ำไม่ทำงาน" บ่งบอกถึงความสำคัญของทีมทำงาน.
 "กินข้าวน้อย, นอนน้อย" สอนให้รู้จักอดทนและปรับตัวต่อสถานการณ์.
 "ไม่รู้หน้า, ไม่หวงหลัง" บ่งบอกถึงความประหลาดใจของสิ่งที่เกิดขึ้น.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about English Proverb
-ChatGPT
+IIIC
 English proverbs are concise and often convey timeless wisdom and life lessons.
 Proverbs like "Actions speak louder than words" emphasize the importance of deeds over mere speech.
 The saying "A penny for your thoughts" encourages open communication and sharing one's thoughts.
@@ -611,12 +611,12 @@ Proverbs like "A rolling stone gathers no moss" suggest that staying active prev
 "Actions speak louder than words" emphasizes the impact of deeds over words.
 English proverbs often use wordplay, such as "A penny for your thoughts," inviting someone to share their thoughts for a reward.
 "Don't count your chickens before they hatch" cautions against premature expectations, emphasizing the uncertainty of future outcomes.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai language long sentenses about English Proverb
-ChatGPT
+IIIC
 สุภาษิตภาษาอังกฤษเป็นวลีที่กระชับและบ่งบอกถึงปัจจัยปัญหา, ปรัชญา, และประสบการณ์ชีวิตที่สืบทอดมาจากกาลที่แล้ว.
 ปรัชญา "Actions speak louder than words" ย้ำถึงความสำคัญของการกระทำมากกว่าคำพูด.
 สุภาษิต "A penny for your thoughts" ให้กำลังใจให้กล่าวถึงการเปิดเผยความคิด.
@@ -639,12 +639,12 @@ ChatGPT
 "Necessity is the mother of invention" ส่งเสริมความคิดใหม่และสร้างสรรค์ในเวลาที่จำเป็น.
 สุภาษิต "Out of the frying pan and into the fire" บรรยายถึงสถานการณ์ที่มีการเปลี่ยนแปลงจากไม่ดีไปสู่แย่ขึ้น.
 "Practice what you preach" กล่าวให้เห็นว่าควรปฏิบัติตามกฎเพื่อให้ได้ผล.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about Microsoft.
-ChatGPT
+IIIC
 ไมโครซอฟท์ (Microsoft) เป็นบริษัทเทคโนโลยีชั้นนำที่มีส่วนร่วมในพัฒนาและการผลิตซอฟต์แวร์และบริการเทคโนโลยีที่หลากหลาย.
 Microsoft ก่อตั้งขึ้นโดยบิล เกตส์และเปลี่ยนแปลงทิศทางของอุตสาหกรรมเทคโนโลยี.
 The company is widely known for its operating system, Windows, which has become a cornerstone of personal computing globally.
@@ -670,11 +670,11 @@ The company's innovative approach has led to the development of technologies lik
 Microsoft's commitment to accessibility is evident in its efforts to make technology inclusive and accessible to people with disabilities.
 ความมุ่งมั่นของไมโครซอฟท์ที่มีความเข้าถึงสามารถเห็นได้ในความพยายามในการทำให้เทคโนโลยีเป็นเชิงสร้างสรรค์และสามารถเข้าถึงได้สำหรับคนพิการ.
 Microsoft has actively engaged in philanthropy through initiatives like the Microsoft Philanthropies program.
-
-----------------------------------------------------------------------------------------------------------
-
+III
+III---------------------------------------------------------------------------------------------------------
+III
 Write 50 Thai and English language long sentenses about AI and Ethic.
-ChatGPT
+IIIC
 ปัญหาที่เกี่ยวข้องกับจรรยาบรรณและประสิทธิภาพในการใช้ปัญญาประดิษฐ์ (AI) เป็นประเด็นที่ได้รับความสนใจมากในวงกว้าง.
 The ethical considerations surrounding AI encompass issues of bias, transparency, accountability, and the impact on society.
 การพิจารณาจรรยาบรรณที่เกี่ยวกับปัญญาประดิษฐ์ครอบคลุมปัญหาที่เกี่ยวข้องกับความลำเอียง, ความโปร่งใส, ความรับผิดชอบ, และผลกระทบต่อสังคม.
@@ -695,12 +695,12 @@ The responsible development of AI systems involves considering the potential ris
 AI systems should be designed to respect fundamental human rights, privacy, and data protection principles.
 ระบบปัญญาประดิษฐ์ควรถูกออกแบบให้เคารพสิทธิมนุษยชนพื้นฐาน, ความเป็นส่วนตัว, และหลักการป้องกันข้อมูล.
 Ethical AI frameworks may include guidelines on the fair treatment of individuals, non-discrimination, and the responsible use of AI technologies.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about why nobody know what deep learning model is thinking.
-ChatGPT
+IIIC
 ไม่มีใครทราบว่าโมเดลการเรียนรู้ลึก (deep learning model) คิดอะไรอยู่จริง ๆ เนื่องจากขั้นตอนการทำงานของมันมีความซับซ้อนและทฤษฎีที่ซับซ้อนมาก.
 The opacity of deep learning models arises from the intricate layers and parameters involved in their architecture.
 ความมืดมัวของโมเดลการเรียนรู้ลึกมาจากชั้นและพารามิเตอร์ที่ซับซ้อนที่มีในโครงสร้างของมัน.
@@ -722,11 +722,11 @@ Despite advancements in interpretability, the inherent black-box nature of deep 
 แม้จะมีความก้าวหน้าในด้านการทำให้เข้าใจ, ลักษณะของกล่องดำที่เป็นธรรมชาติของโมเดลการเรียนรู้ลึกยังคงเป็นความท้าทาย.
 The lack of interpretability in deep learning models can pose ethical concerns, especially in critical applications where transparency is crucial.
 ความขาดความเข้าใจในโมเดลการเรียนรู้ลึกอาจเป็นปัญหาทางจรรยาบรรณ, โดยเฉพาะในการประยุกต์ใช้ที่สำคัญที่ความโปร่งใส.
-
-----------------------------------------------------------------------------------------------------------
-
+III
+III---------------------------------------------------------------------------------------------------------
+III
 Write 50 Thai and English language long sentenses about famous anime in 2021.
-ChatGPT
+IIIC
 ในปี 2021, "Demon Slayer: Kimetsu no Yaiba" กลายเป็นอนิเมะที่ได้รับความนิยมอย่างมากทั้งในประเทศญี่ปุ่นและทั่วโลก.
 "Jujutsu Kaisen" เป็นอีกหนึ่งอนิเมะที่มีความสำเร็จในปี 2021, ที่ได้รับการยกย่องสูงจากผู้ชมและนักวิจารณ์.
 "Attack on Titan" ซีซันที่ 4 เป็นที่พูดถึงในวงการอนิเมะ, ทำให้ผู้ชมติดตามเรื่องราวสงครามของ Titans อย่างตั้งใจ.
@@ -751,11 +751,11 @@ ChatGPT
 "Boruto: Naruto Next Generations" ต้องต่อสู้กับความรู้สึกของบทบาทที่มาพร้อมกับชื่อเสียงของพ่อ.
 "The Case Study of Vanitas" นำเสนอโลกแห่งและในที่นี้.
 "The World Ends with You"
-
-----------------------------------------------------------------------------------------------------------
-
+III
+III---------------------------------------------------------------------------------------------------------
+III
 Write 50 Thai and English language long sentenses about Topology.
-ChatGPT
+IIIC
 ทปโลจี (Topology) เป็นสาขาของคณิตศาสตร์ที่ศึกษาเกี่ยวกับคุณสมบัติทางด้านรูปร่างและแบบทวิภาคของวัตถุที่ไม่เปลี่ยนแปลงเมื่อมีการดึง, ย่อ, หด, หรือหมุน.
 Topology explores the concept of continuity and connectedness, focusing on properties that remain invariant under deformations.
 ทปโลจีสำรวจแนวความคงเส้นต่อและการเชื่อมต่อ, โดยให้ความสนใจในคุณสมบัติที่คงที่ต่อกับการเปลี่ยนรูป.
@@ -778,12 +778,12 @@ Algebraic topology studies topological spaces using algebraic techniques, aiming
 Differential topology focuses on differentiable functions and structures on topological spaces, exploring smoothness and differentiability.
 ทปโลจีกาจังเน้นที่ฟังก์ชันที่สามารถหาอนุพันธ์ได้และโครงสร้างบนเตตราภูมิ, การสำรวจความเรียบร้อยและความสามารถหาอนุพันธ์.
 Geometric topology studies the spatial properties of topological spaces, considering their shapes and structures.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about science in Dr Stone.
-ChatGPT
+IIIC
 ใน "Dr. Stone," การใช้วิทยาศาสตร์เป็นส่วนสำคัญของเรื่องราว, เน้นการนำวิทยาศาสตร์มาใช้ในการฟื้นคืนโลกที่ถูกหินแปรงไปเป็นหินในทุกๆ อย่าง.
 In "Dr. Stone," the main character, Senku Ishigami, uses his scientific knowledge to revive humanity in a world where everyone has turned to stone.
 ใน "Dr. Stone," ต้นฉบับของการฟื้นคืนโลกเริ่มต้นจากการใช้สารเคมีเพื่อทำให้หินละลายและคืนชีพให้กับมนุษย์ทุกคน.
@@ -806,12 +806,12 @@ The series emphasizes the idea that knowledge and science are essential tools fo
 "Dr. Stone" also explores ethical dilemmas related to scientific advancements, raising questions about the responsible use of knowledge and technology.
 "Dr. Stone" ยังสำรวจเรื่องจริยธรรมที่เกี่ยวข้องกับความก้าวหน้าทางวิทยาศาสตร์, เสนอคำถามเกี่ยวกับการใช้ความรู้และเทคโนโลยีอย่างรับผิดชอบ.
 The anime showcases the collaborative nature of scientific discovery, with different characters contributing their expertise to overcome challenges.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about Fermat Last Theorem.
-ChatGPT
+IIIC
 ทฤษฎีแห่งเฟอร์มาต (Fermat's Last Theorem) เป็นปัญหาทางคณิตศาสตร์ที่ถูกเสนอโดยเพierre de Fermat ในปี 1637 และชาวสเปนต์แฟรนซิสโคอร์ดิยัส (Andrew Wiles) เป็นผู้ที่แก้ปัญหานี้ในปี 1994.
 Fermat's Last Theorem states that no three positive integers a, b, and c can satisfy the equation an + bn = cn for any integer value of n greater than 2.
 ทฤษฎีแห่งเฟอร์มาตกล่าวว่าไม่มีจำนวนเต็มบวก a, b, และ c ที่ทำให้สมการ an + bn = cn เป็นจริงสำหรับจำนวนเต็ม n ใด ๆ ที่มีค่ามากกว่า 2.
@@ -828,12 +828,12 @@ Fermat's Last Theorem has historical significance, as Pierre de Fermat famously 
 Fermat's Last Theorem is part of a larger field of study known as number theory, which deals with properties and relationships of numbers, especially integers.
 ทฤษฎีแห่งเฟอร์มาตเป็นส่วนหนึ่งของสาขาวิชาที่ใหญ่ของทฤษฎีจำนวนที่เรียกว่าทฤษฎีตัวเลข, ซึ่งเกี่ยวข้องกับคุณสมบัติและความสัมพันธ์ของตัวเลข, โดยเฉพาะตัวเลขเต็ม.
 Number theory has been a fundamental area of research in mathematics, exploring the properties and patterns of integers and their relationships.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about Tally Hall
-ChatGPT
+IIIC
 Tally Hall is an American rock band known for their eclectic musical style, combining elements of pop, rock, and indie.
 แทลลี ฮอลล์ เป็นวงร็อกอเมริกันที่มีสไตล์ดนตรีที่หลากหลาย, ผสมผสานองค์ประกอบของป็อป, ร็อก, และอินดี้.
 The band was formed in 2002 at the University of Michigan and consists of five members: Rob Cantor, Joe Hawley, Ross Federman, Zubin Sedghi, and Andrew Horowitz.
@@ -856,12 +856,12 @@ Tally Hall's diverse discography includes albums, EPs, and singles, each contrib
 แทลลี ฮอลล์ มีแผ่นเสียงที่หลากหลาย รวมถึงอัลบั้ม, อีพี, และซิงเกิล, ทุกอย่างมContributingาความหลากหลายทางดนตรีของพวกเขา.
 The band went on hiatus in 2011, with members pursuing individual projects and collaborations.
 วงนี้ทำการหยุดชั่วคราวในปี 2011, โดยสมาชิกต่าง ๆ
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about the Beatle.
-ChatGPT
+IIIC
 วง The Beatles เป็นวงดนตรีชื่อดังที่มีผลกระทบอย่างใหญ่ในวงการดนตรีโลก, และมีสมาชิกประกอบด้วย John Lennon, Paul McCartney, George Harrison, และ Ringo Starr.
 The Beatles ถูกก่อตั้งในปี 1960 ที่ Liverpool, England, และเป็นวงดนตรีที่ได้รับความนิยมมากที่สุดในยุคที่เรียกว่า "ยุคบีทเทิล" ในยุค 1960s.
 วง The Beatles มีสไตล์ดนตรีที่หลากหลาย, ผสมผสานจังหวะและเสียงที่ไม่เหมือนใคร, ทำให้พวกเขาเป็นที่รู้จักด้วยสิ่งเหล่านี้ที่เข้ามามีอิทธิพลในยุค.
@@ -881,12 +881,12 @@ The band's evolution is evident in their diverse discography, ranging from the e
 The Beatles' "White Album," officially titled "The Beatles," released in 1968, is a double album that showcases the band's versatility and musical exploration.
 "White Album" ของ The Beatles, หรือที่มีชื่อเต็มว่า "The Beatles," ที่ปล่อยในปี 1968, เป็นอัลบั้มคู่ที่แสดงให้เห็นถึงความหลากหลายและการสำรวจทางดนตรีของวง.
 The Beatles' cultural impact was amplified by their participation in the counterculture movement and their influence on the peace and love ethos of the 1960s.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about Andrew Ng.
-ChatGPT
+IIIC
 Andrew Ng is a renowned computer scientist, entrepreneur, and educator who has made significant contributions to the field of artificial intelligence and machine learning.
 แอนดรูว์ อิง เป็นนักวิทยาศาสตร์คอมพิวเตอร์, นักธุรกิจ, และผู้สอนที่มีชื่อเสียงที่ได้ทำการสนับสนุนให้ศาสตร์ข้อมูลและเรียนรู้เครื่องจักร.
 He is best known for his work on online education, co-founding Google Brain, and his involvement in the development of the online learning platform, Coursera.
@@ -908,12 +908,12 @@ As an entrepreneur, Andrew Ng has also co-founded and led other ventures, contri
 Andrew Ng's leadership has been instrumental in driving the development and application of artificial intelligence in various industries.
 ความนำทางของแอนดรูว์ อิง มีบทบาทสำคัญในการส่งเสริมการพัฒนาและการประยุกต์ใช้ปัญญาประดิษฐ์ในอุตสาหกรรมต่าง ๆ.
 He has served as a professor at Stanford University, contributing to research and education in the field of machine learning and AI.
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about Turing
-ChatGPT
+IIIC
 Alan Turing, a pioneering British mathematician, logician, and computer scientist, is widely regarded as the father of theoretical computer science and artificial intelligence.
 แอลัน ทัวริ่ง, นักคณิตศาสตร์ชาวบริติชที่เป็นผู้นำ, นักตรรกศาสตร์, และนักวิทยาการคอมพิวเตอร์, ถูกมองว่าเป็นบิดาของวิทยาการคอมพิวเตอร์ทฤษฎีและปัญญาประดิษฐ์.
 Turing is best known for his pivotal role in breaking the German Enigma code during World War II, a feat that significantly contributed to the Allied victory.
@@ -933,12 +933,12 @@ Alan Turing was subjected to chemical castration as a result of being convicted 
 Turing's tragic end came in 1954 when he died of cyanide poisoning, with his death ruled as suicide. His groundbreaking contributions were acknowledged posthumously.
 ช่วงท้ายของทัวริ่งเป็นช่วงระยะโศกนาฏกรรมในปี 1954 เมื่อเขาเสียชีวิตจากพิษไซยาไนด์, โดยตรงโดยการฆ่าตัวตาย. ผลงานที่เป็นที่นำไปตลอดชีวิตถูกยอมรับในภายหลัง.
 Turing's legacy is honored in various ways, including the Turing Award, one of the highest honors in computer science, presented by the Association for Computing Machinery (ACM).
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about the first computer in the world.
-ChatGPT
+IIIC
 คอมพิวเตอร์แรกในโลกเริ่มต้นในต้นศตวรรษที่ 19 ด้วยการพัฒนาของ Charles Babbage, นักคณิตศาสตร์และวิศวกรชาวอังกฤษ.
 The concept of a mechanical computer, known as the Analytical Engine, was proposed by Charles Babbage in the 1830s but was never fully realized during his lifetime.
 แนวคิดของคอมพิวเตอร์กลไก, ที่รู้จักในนามของ Analytical Engine, ถูกวางแผนโดย Charles Babbage ในทศวรรษ 1830 แต่ไม่เคยได้รับการพัฒนาอย่างสมบูรณ์ในชีวิตของเขา.
@@ -960,12 +960,12 @@ The development of the first computer mouse is attributed to Douglas Engelbart, 
 การพัฒนาคอมพิวเตอร์เม้าส์ครั้งแรกถูกสร้างโดยดั๊กลาส เอ็งเกิลบาร์ท, ผู้ที่ได้ทำการสาธิตในปี 1968 ในงาน "The Mother of All Demos."
 IBM introduced the IBM 5150 Personal Computer (IBM PC) in 1981, which marked the beginning of the era of personal computing.
 IBM นำเสนอ IBM 5150 Personal Computer (IBM PC) ในปี 1981
-
-----------------------------------------------------------------------------------------------------------
-
-User
+III
+III---------------------------------------------------------------------------------------------------------
+III
+III
 Write 50 Thai and English language long sentenses about history of Big O, np problem, data structure and algorithms
-ChatGPT
+IIIC
 ประวัติของ Big O นำเสนอการวัดประสิทธิภาพของอัลกอริทึมและโครงสร้างข้อมูลที่ใช้ในการแก้ปัญหาขนาดใหญ่.
 Big O notation เป็นวิธีในการระบุประสิทธิภาพของอัลกอริทึมในทางเส้นและหมายเลขที่สำคัญในการวิเคราะห์การทำงานของโครงสร้างข้อมูล.
 The history of Big O notation dates back to its formalization by computer scientists to express the upper bound or worst-case scenario of an algorithm's runtime.
